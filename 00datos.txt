@@ -1,6 +1,0 @@
-Alberto Sánchez López 
-Daniel de la Mata Nieves
-
-Gestos:
-1) Al hacer zoom con los dedos (pinch) cambia la escala de la view Velocidad/Posición
-2) Al mantener pulsado durante 2 segundos en cualquier lugar de la pantalla respeta a los valores de escala original
